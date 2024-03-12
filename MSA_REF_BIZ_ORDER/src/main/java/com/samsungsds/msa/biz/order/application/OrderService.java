@@ -1,4 +1,4 @@
-package com.samsungsds.msa.biz.order.domain;
+package com.samsungsds.msa.biz.order.application;
 
 import com.samsungsds.msa.biz.order.application.OrderDTO;
 

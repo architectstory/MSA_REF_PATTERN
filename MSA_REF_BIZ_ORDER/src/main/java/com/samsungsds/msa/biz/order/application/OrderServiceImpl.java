@@ -1,6 +1,8 @@
-package com.samsungsds.msa.biz.order.domain;
+package com.samsungsds.msa.biz.order.application;
 
-import com.samsungsds.msa.biz.order.application.OrderDTO;
+import com.samsungsds.msa.biz.order.domain.OrderAggregate;
+import com.samsungsds.msa.biz.order.domain.OrderRepository;
+import com.samsungsds.msa.biz.order.domain.OrderVO;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
